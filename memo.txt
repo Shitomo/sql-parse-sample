@@ -1,0 +1,9 @@
+
+- github.com/marianogappa/sqlparser
+  - テーブル名や数値が`'`で囲まれていないとダメ
+
+- github.com/krasun/gosqlparser
+  - WHERE句の条件指定が`==`になっていていないとダメ
+
+- github.com/pganalyze/pg_query_go
+  - 良さそう

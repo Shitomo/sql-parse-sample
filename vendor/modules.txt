@@ -1,0 +1,11 @@
+# github.com/golang/protobuf v1.4.2
+## explicit; go 1.9
+# github.com/pganalyze/pg_query_go v1.0.3
+## explicit; go 1.14
+github.com/pganalyze/pg_query_go
+github.com/pganalyze/pg_query_go/nodes
+github.com/pganalyze/pg_query_go/parser
+# github.com/pganalyze/pg_query_go/v2 v2.2.0
+## explicit; go 1.14
+# google.golang.org/protobuf v1.23.0
+## explicit; go 1.9
